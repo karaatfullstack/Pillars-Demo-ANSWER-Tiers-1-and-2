@@ -1,15 +1,6 @@
-# Checkpoint - Pillars (Express/Sequelize)
+# Pillars Practice Repo
 
-This checkpoint is primarily to help us understand how well you've absorbed the material covered so far. It covers the main backend libraries you've learned in the curriculum so far: Express and Sequelize.
-
-To this end — and perhaps it goes without saying — we ask that you don't help each other or cheat.
-
-## Resources
-
-Please read the Academic Integrity Policy (`pillars-academic-integrity-policy.md` at the root of this repo).
-
-## Things we're checking
-
+Repo to practice the following concepts, which will be on the Pillars exam:
 - Express Routing and Route Methods
 - Express Route Parameters
 - Express Status Codes
